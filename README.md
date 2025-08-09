@@ -1,1 +1,1 @@
-index.html # mobile-store
+# mobile-store
